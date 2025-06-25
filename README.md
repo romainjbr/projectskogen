@@ -10,8 +10,6 @@
 
 This project is a game developed on the basis of my master's thesis in History. 
 
-For a better description of the project, visit [my website page dedicated to it](https://www.romainjbr.com/skogen).
-
 ## Quick summary
 
 The game follows the adventure of Anna Larsdotter, a regular woman who takes part in an anti-witch militia. One evening, during a witch's assault, she tries to defend herself and hit a witch, but misses her head from a whisker and just chops off a bit of her hair. Anna plans to go to the Witchcraft commission to accuse a woman of witch craft with the help of this piece of evidence. However, the wind unfortunately snatches away the hair and carries it into the forest. Anna must now recover the tuft of hair and return home safely...
