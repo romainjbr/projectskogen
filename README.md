@@ -9,6 +9,7 @@
 ## General info
 
 This project is a game developed on the basis of my master's thesis in History. 
+3-min demo of the game: https://youtu.be/EnSmFl_J5MA 
 
 ## Quick summary
 
